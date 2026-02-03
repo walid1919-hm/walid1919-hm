@@ -33,7 +33,6 @@ Passionné par la transformation de données brutes en décisions stratégiques,
 
 ## 🌱 En ce moment...
 -  Je travaille sur l'optimisation de modèles de réseaux de neurones convolutionnels (**CNN**).
--  Je prépare mon examen **TCF Canada**.
 - **Fait amusant :** Grand passionné d'aviation et de mécanique automobile .
 
 ## 📫 Me contacter
