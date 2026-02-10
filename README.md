@@ -1,6 +1,6 @@
 #Walid Hamiti
 
-###  spécialiste en Science des Données Appliquées @ La Cité (Ottawa/Gatineau)
+###  spécialiste en Science des Données Appliquées
 
 Passionné par la transformation de données brutes en décisions stratégiques, je me spécialise dans le **Big Data**, la **Modélisation Statistique** et le **Nettoyage de Données**. J'aime explorer des datasets massifs pour y dénicher des conclusions inattendues.
 
