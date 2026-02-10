@@ -1,4 +1,4 @@
-# Salut, moi c'est Walid ! 👋
+#Walid Hamiti
 
 ###  spécialiste en Science des Données Appliquées @ La Cité (Ottawa/Gatineau)
 
@@ -31,7 +31,7 @@ Passionné par la transformation de données brutes en décisions stratégiques,
 
 ---
 
-## 🌱 En ce moment...
+## En ce moment...
 -  Je travaille sur l'optimisation de modèles de réseaux de neurones convolutionnels (**CNN**).
 - **Fait amusant :** Grand passionné d'aviation et de mécanique automobile .
 
